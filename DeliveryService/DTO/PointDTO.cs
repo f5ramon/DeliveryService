@@ -26,6 +26,7 @@ namespace DeliveryService.DTO
         {
             var point = pointsBiz.GetByIdAttached(this.Id);
             point.Name = this.Name;
+
             return point;
         }
 
