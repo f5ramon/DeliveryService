@@ -1,0 +1,12 @@
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\bin\Debug\DeliveryService.Models.dll.config
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\bin\Debug\DeliveryService.Models.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\bin\Debug\DeliveryService.Models.pdb
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\bin\Debug\EntityFramework.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\bin\Debug\EntityFramework.xml
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\obj\Debug\DeliveryService.Models.csprojAssemblyReference.cache
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\obj\Debug\DeliveryService.Models.csproj.CoreCompileInputs.cache
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\obj\Debug\DeliveryService.Models.csproj.CopyComplete
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\obj\Debug\DeliveryService.Models.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Models\obj\Debug\DeliveryService.Models.pdb

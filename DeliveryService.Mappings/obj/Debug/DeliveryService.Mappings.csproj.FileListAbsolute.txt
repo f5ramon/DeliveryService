@@ -1,0 +1,15 @@
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\obj\Debug\DeliveryService.Mappings.csproj.CoreCompileInputs.cache
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\DeliveryService.Mappings.dll.config
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\DeliveryService.Mappings.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\DeliveryService.Mappings.pdb
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\DeliveryService.Models.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\EntityFramework.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\DeliveryService.Models.pdb
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\DeliveryService.Models.dll.config
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\EntityFramework.xml
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\obj\Debug\DeliveryService.Mappings.csprojAssemblyReference.cache
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\obj\Debug\DeliveryService.Mappings.csproj.CopyComplete
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\obj\Debug\DeliveryService.Mappings.dll
+C:\Users\alc_r\Documents\Development\JobExercises\DeliveryService\DeliveryService.Mappings\obj\Debug\DeliveryService.Mappings.pdb
